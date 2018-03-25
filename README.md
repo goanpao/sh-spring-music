@@ -1,6 +1,6 @@
 ###### Build:
 
-[![Build Status](https://semaphoreci.com/api/v1/garystafford/spring-music/branches/springmusic_v2/badge.svg)](https://semaphoreci.com/garystafford/spring-music) [![Build Status](https://travis-ci.org/garystafford/spring-music.svg?branch=springmusic_v2)](https://travis-ci.org/garystafford/spring-music)
+[![Build Status] [![Build Status](https://travis-ci.org/goanpao/sh-spring-music.svg?branch=develop)](https://travis-ci.org/goanpao/sh-spring-music)
 
 ## Spring Music Revisited: Java-Spring-MongoDB Web App with Docker 1.12
 
