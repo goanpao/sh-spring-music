@@ -15,7 +15,7 @@ cd build/distributions
 git init
 
 # inside this git repo we'll pretend to be a new user
-git config user.name "travis-ci"
+git config user.name "travisci"
 git config user.email "${COMMIT_AUTHOR_EMAIL}"
 
 # The first and only commit to this new Git repo contains all the
